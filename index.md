@@ -8,7 +8,7 @@ layout: homepage
 ## News
 
 
-## Publications ((FULL List)[https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en])
+## Publications ([FULL List](https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en))
 
 - Jinhua Zhu, Zhenyu He, Ziyao Li, Guolin Ke, and Linfeng Zhang. "Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models". BioRxiv 2023.
 
