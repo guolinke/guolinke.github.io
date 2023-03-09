@@ -13,10 +13,7 @@ In 2016, he created [LightGBM](https://github.com/microsoft/LightGBM), one of th
 In 2021, he led the development of [Graphormer](https://github.com/microsoft/Graphormer), which won the 1st place of the quantum prediction track of Open Graph Benchmark Large-Scale Challenge (KDD CUP 2021) and the 1st place of Open Catalyst Challenge (NeurIPS 2021). 
 In 2021 & 2022, he led the development of [Uni-Fold](https://github.com/dptech-corp/Uni-Fold), the first AlphaFold reimplementation, with open-sourced training codes and full training dataset.
 
-## News
-
-
-## Publications ([FULL List](https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en))
+## Publications
 
 - Jinhua Zhu, Zhenyu He, Ziyao Li, Guolin Ke, and Linfeng Zhang. "Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models". BioRxiv 2023.
 
