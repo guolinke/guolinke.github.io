@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Guolin Ke is currently the head of Machine Learning Group at DP Technology, working on AI for Science. Previously, he was a Senior Researcher at the Machine Learning Group at Microsoft Research Asia (MSRA), where he focused on the development of high-performance machine learning algorithms and large-scale pretrained language models. 
+Guolin Ke is currently the head of Machine Learning Group at [DP Technology](https://www.dp.tech/en), working on AI for Science. Previously, he was a Senior Researcher at the Machine Learning Group at Microsoft Research Asia (MSRA), where he focused on the development of high-performance machine learning algorithms and large-scale pretrained language models. 
 
 Guolin's current research focuses on using AI for Science, specifically large-scale representation learning for molecules, 3D geometry learning, 3D molecular generation, protein structure prediction, and more. His goal is to accelerate the development of science through machine learning. If you are interested in joining his team, please email your CV to him.
 
