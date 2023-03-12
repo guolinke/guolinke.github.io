@@ -13,6 +13,22 @@ In 2016, he created [LightGBM](https://github.com/microsoft/LightGBM), one of th
 In 2021, he led the development of [Graphormer](https://github.com/microsoft/Graphormer), which won the 1st place of the quantum prediction track of Open Graph Benchmark Large-Scale Challenge (KDD CUP 2021) and the 1st place of Open Catalyst Challenge (NeurIPS 2021). 
 In 2021 & 2022, he led the development of [Uni-Fold](https://github.com/dptech-corp/Uni-Fold), the first AlphaFold reimplementation, with open-sourced training codes and full training dataset.
 
+## News
+
+- Feb 16, 2023, we release [Uni-Fold MuSSe](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1), a de novo protein complex prediction tool that requires only a single sequence input.
+
+- Aug 31, 2022, we release [Uni-Fold Symmetry](https://www.biorxiv.org/content/10.1101/2022.08.30.505833.abstract), supporting the end-to-end prediction of extremely large protein complexes.
+
+- Aug 6, 2022, we release the pytorch version of [Uni-Fold](https://github.com/dptech-corp/Uni-Fold), which firstly reimplemented AlphaFold and AlphaFold-Multimer, including training codes and datasets. 
+
+- Jul 21, 2022, [LightGBM](https://github.com/microsoft/LightGBM) is faster thanks to quantilize training and the new GPU version. See our [paper](https://openreview.net/forum?id=Cd-b50MZ0Gc) for more information.
+
+- Jun 10, 2022, we release [Uni-Mol](https://github.com/dptech-corp/Uni-Mol), the first 3D molecular/pocket pretraining framework, outperforms SOTA in molecular property prediction, protein-ligand binding pose prediction, and molecular conformation generation, etc.
+
+- Dec 8, 2021, [Graphormer-3D](https://arxiv.org/abs/2203.04810) wins the FIRST place  in the Open Catalyst Challenge at NeurIPS 2021.
+
+- Jun 17, 2021, [Graphormer](https://github.com/microsoft/Graphormer) wins the FIRST place in the OGB Large-Scale Challenge PCQM4M-LSC at KDD Cup 2021.
+
 ## Publications
 
 The entire list is available at [Google Scholar](https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en).
