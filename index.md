@@ -15,6 +15,8 @@ In 2021 & 2022, he led the development of [Uni-Fold](https://github.com/dptech-c
 
 ## Publications
 
+The entire list is available at [Google Scholar](https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en).
+
 - Jinhua Zhu, Zhenyu He, Ziyao Li, Guolin Ke, and Linfeng Zhang. "[Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)". BioRxiv 2023.
 
 - Yuejiang Yu, Shuqi Lu, Zhifeng Gao, Hang Zheng, and Guolin Ke. "[Do Deep Learning Models Really Outperform Traditional Approaches in Molecular Docking?](https://arxiv.org/abs/2302.07134)" ArXiv Preprint ArXiv:2302.07134, 2023.
