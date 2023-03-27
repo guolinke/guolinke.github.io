@@ -15,6 +15,8 @@ In 2021 & 2022, he led the development of [Uni-Fold](https://github.com/dptech-c
 
 ## News
 
+- Mar 16, 2023, [Uni-Mol+](https://github.com/dptech-corp/Uni-Mol) wins the FIRST place in the OGB Large-Scale Challenge PCQM4Mv2.
+
 - Feb 16, 2023, we release [Uni-Fold MuSSe](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1), a de novo protein complex prediction tool that requires only a single sequence input.
 
 - Aug 31, 2022, we release [Uni-Fold Symmetry](https://www.biorxiv.org/content/10.1101/2022.08.30.505833.abstract), supporting the end-to-end prediction of extremely large protein complexes.
