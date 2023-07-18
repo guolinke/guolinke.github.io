@@ -9,7 +9,7 @@ Guolin Ke is currently the head of Machine Learning Group at [DP Technology](htt
 Guolin's current research focuses on using AI for Science, specifically large-scale representation learning for molecules, 3D geometry learning, 3D molecular generation, protein structure prediction, and more. His goal is to accelerate the development of science through machine learning. If you are interested in joining his team, please email your CV to him.
 
 During his academic career, Guolin won several machine learning competitions, including the first place (1M CNY) in the 1st Alibaba (Tmall) Big Data Competition (2014) and the first place (100K USD) in the 1st Didi Algorithm Competition (2016). 
-In 2016, he created [LightGBM](https://github.com/microsoft/LightGBM), one of the most popular GBDT tools, during his internship at MSRA. It has received ~14K stars in GitHub and 220M+ total downloads. 
+In 2016, he created [LightGBM](https://github.com/microsoft/LightGBM), one of the most popular GBDT tools, during his internship at MSRA. It has received ~15K stars in GitHub and 220M+ total downloads. 
 In 2021, he led the development of [Graphormer](https://github.com/microsoft/Graphormer), which won the 1st place of the quantum prediction track of Open Graph Benchmark Large-Scale Challenge (KDD CUP 2021) and the 1st place of Open Catalyst Challenge (NeurIPS 2021). 
 In 2021 & 2022, he led the development of [Uni-Fold](https://github.com/dptech-corp/Uni-Fold), the first AlphaFold reimplementation, with open-sourced training codes and full training dataset.
 
