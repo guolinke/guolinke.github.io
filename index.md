@@ -21,8 +21,6 @@ In 2021 & 2022, he led the development of [Uni-Fold](https://github.com/dptech-c
 
 - Jul 7, 2023, [Uni-Mol+](https://github.com/dptech-corp/Uni-Mol/tree/main/unimol_plus) wins the FIRST place in the [Open Catalyst 2020 IS2RE Direct](https://opencatalystproject.org/leaderboard.html) benchmark.
 
-- Jul 7, 2023, [Uni-Mol+](https://github.com/dptech-corp/Uni-Mol/tree/main/unimol_plus) wins the FIRST place in the [Open Catalyst 2020 IS2RE Direct](https://opencatalystproject.org/leaderboard.html) benchmark.
-
 - Mar 16, 2023, [Uni-Mol+](https://github.com/dptech-corp/Uni-Mol/tree/main/unimol_plus) wins the FIRST place in the OGB Large-Scale Challenge [PCQM4Mv2](https://ogb.stanford.edu/docs/lsc/leaderboards/#pcqm4mv2).
 
 - Feb 16, 2023, we release [Uni-Fold MuSSe](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1), a de novo protein complex prediction tool that requires only a single sequence input.
