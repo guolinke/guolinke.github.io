@@ -15,6 +15,12 @@ In 2021 & 2022, he led the development of [Uni-Fold](https://github.com/dptech-c
 
 ## News
 
+- Nov 11, 2023, LightGBM is selected in [AI100: Top 100 AI achievements (1943-2021)](https://evaluation.benchcouncil.org/ai/).
+
+- Oct 4, 2023, Guolin is selected in [World top 2% scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6).
+
+- Jul 7, 2023, [Uni-Mol+](https://github.com/dptech-corp/Uni-Mol/tree/main/unimol_plus) wins the FIRST place in the [Open Catalyst 2020 IS2RE Direct](https://opencatalystproject.org/leaderboard.html) benchmark.
+
 - Jul 7, 2023, [Uni-Mol+](https://github.com/dptech-corp/Uni-Mol/tree/main/unimol_plus) wins the FIRST place in the [Open Catalyst 2020 IS2RE Direct](https://opencatalystproject.org/leaderboard.html) benchmark.
 
 - Mar 16, 2023, [Uni-Mol+](https://github.com/dptech-corp/Uni-Mol/tree/main/unimol_plus) wins the FIRST place in the OGB Large-Scale Challenge [PCQM4Mv2](https://ogb.stanford.edu/docs/lsc/leaderboards/#pcqm4mv2).
