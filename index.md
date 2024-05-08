@@ -41,6 +41,14 @@ In 2021 & 2022, he led the development of [Uni-Fold](https://github.com/dptech-c
 
 The entire list is available at [Google Scholar](https://scholar.google.com/citations?user=M2qJgtoAAAAJ&hl=en).
 
+- Jingqi Wang, Jiapeng Liu, Hongshuai Wang, Musen Zhou, Guolin Ke, Linfeng Zhang, Jianzhong Wu, Zhifeng Gao, Diannan Lu. "[A comprehensive transformer-based approach for high-accuracy gas adsorption predictions in metal-organic frameworks](https://www.nature.com/articles/s41467-024-46276-x)". Nat Commun 15, 1904 (2024).
+
+
+- Lin Yao, Wentao Guo, Zhen Wang, Shang Xiang, Wentan Liu, Guolin Ke. "[Node-Aligned Graph-to-Graph: Elevating Template-free Deep Learning Approaches in Single-Step Retrosynthesis](https://pubs.acs.org/doi/abs/10.1021/jacsau.3c00737)". JACS Au 2024, 4, 3, 992–1003.
+
+- Qingsi Lai, Lin Yao, Zhifeng Gao, Siyuan Liu, Hongshuai Wang, Shuqi Lu, Di He, Liwei Wang, Cheng Wang, Guolin Ke. "[End-to-End Crystal Structure Prediction from Powder X-Ray Diffraction](https://arxiv.org/abs/2401.03862)". ArXiv preprint arXiv:2401.03862.
+
+
 - Shuqi Lu, Zhifeng Gao, Di He, Linfeng Zhang, and Guolin Ke. "[Highly Accurate Quantum Chemical Property Prediction with Uni-Mol+](https://arxiv.org/abs/2303.16982)". ArXiv Preprint ArXiv:2303.16982, 2023.
 
 - Jinhua Zhu, Zhenyu He, Ziyao Li, Guolin Ke, and Linfeng Zhang. "[Uni-Fold MuSSe: De Novo Protein Complex Prediction with Protein Language Models](https://www.biorxiv.org/content/10.1101/2023.02.14.528571v1)". BioRxiv 2023.
