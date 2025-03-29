@@ -15,6 +15,8 @@ In 2021 & 2022, he led the development of [Uni-Fold](https://github.com/dptech-c
 
 ## News
 
+- Mar 21, 2025, we released [Uni-3DAR](https://uni-3dar.github.io), an autoregressive model that unifies a wide range of 3D tasks, from micro-scale to macro-scale structures.
+
 - Nov 11, 2023, LightGBM is selected in [AI100: Top 100 AI achievements (1943-2021)](https://evaluation.benchcouncil.org/ai/).
 
 - Oct 4, 2023, Guolin is selected in [World top 2% scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6).
